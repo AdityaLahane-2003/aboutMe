@@ -1,6 +1,10 @@
-<h1 align="center">Hello 👋, I'm Aditya Lahane</h1>
+<img align="right" src="https://visitcount.itsvg.in/api?id=AdityaLahane-2003&icon=8&color=0">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Lahane!;" />
+</h1>
 
-<!--About Me -->
+
+
 <h3 align="center">Web Developer / Android Developer / Freelancer</h3>
 
 
@@ -49,6 +53,9 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>&nbsp;&nbsp;
 
 
 </p>
@@ -66,6 +73,29 @@
   
 <h2 align="center">My Github Statistics </h2>
 </p><p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaLahane-2003&theme=material-palenight" /></p>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaLahane-2003&theme=dark&hide_border=true" /></p>
 
-</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AdityaLahane-2003&layout=compact&hide=html&theme=jolly" alt="Aditya Lahane" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
+</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AdityaLahane-2003&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Aditya Lahane" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
+</p><p align="center"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaLahane-2003&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Aditya" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
+
+<!-- Trophies Section -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaLahane-2003&theme=radical&no-frame=true&no-bg=false&margin-w=4">
+</p>
+
+<!-- Quote Section -->
+<h2 align="center">✍️ Random Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+</p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
